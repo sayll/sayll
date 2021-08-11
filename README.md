@@ -1,7 +1,13 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=sayll&show_icons=true&icon_color=66ccff&text_color=718096&bg_color=ffffff" />
 
-### hi，朋友 ~ 👋
+### Hi there ~ 👋
 
-这里是 sayll (解夏) 的 GitHub 主页
+I'm 解夏
 
-个人博客：[Blog](https://sayll.com/)
+- :pushpin: 互联网打工人
+- :hammer_and_wrench: 前端工程师
+- :office: *
+- :house: 温州
+- :round_pushpin: 杭州
+
+:link: [https://sayll.com/](https://sayll.com/)
